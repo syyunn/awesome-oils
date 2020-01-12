@@ -6,3 +6,6 @@ https://www.bancaditalia.it/pubblicazioni/altri-atti-seminari/2009/Kilian_230209
 
 Oil Prices and Inflation Expectations: Is There a Link?
 https://www.bancaditalia.it/pubblicazioni/qef/2018-0423/QEF_423_18.pdf
+
+What drives crude oil prices: Overview
+https://www.eia.gov/finance/markets/crudeoil/index.php
