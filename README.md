@@ -9,3 +9,8 @@ https://www.bancaditalia.it/pubblicazioni/qef/2018-0423/QEF_423_18.pdf
 
 What drives crude oil prices: Overview
 https://www.eia.gov/finance/markets/crudeoil/index.php
+
+EIA Workshop: Economic Activity & Oil Prices,
+OPEC Policies, Production and Price Responses
+September 19, 2017
+https://www.eia.gov/finance/markets/reports_presentations/2017/foreman.pdf
